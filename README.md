@@ -1,1 +1,1 @@
-# RubyOnRails
+Ruby on Rails project.
